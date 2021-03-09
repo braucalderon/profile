@@ -11,4 +11,4 @@
 <li>Implementing a better component architecture throughout the application</li> 
 
 ## Note
-<li>Parts of the code can be seeing in the code file</li>
+<li>Parts of the code can be found in the code folder</li>
