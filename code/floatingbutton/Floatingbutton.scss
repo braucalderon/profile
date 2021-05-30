@@ -1,0 +1,48 @@
+/* position a component at the bottom right of the page */
+
+.FloatingCloseButton{
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 8%;
+    cursor: pointer;
+    /* border: solid white 4px; */
+}
+
+.FloatingLinkPage{
+    color: white;
+    transition:  transform 0.6s;
+}
+
+.FloatingLinkPage:hover{
+    color: #9ecb22;
+    transition: 0.6s ease-in-out;
+    transform: rotateY(180deg);
+}
+
+
+.FloatingCloseButtonHover{
+    color: white;
+}
+
+.FloatingCloseButtonHover:hover{
+    color: #9ecb22;
+    
+}
+
+.FloatingLinkButton{
+    text-decoration: none;
+    /* border: 4px solid white; */
+    color: white;
+ }
+ 
+ @media(min-width: 250px) and (max-width: 650px){
+    .FloatingCloseButton{
+        width: 14%;
+       
+    }
+ }
+ 
+ 
+ 
+
