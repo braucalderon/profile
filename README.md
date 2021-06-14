@@ -1,7 +1,7 @@
 ## Portfolio
 
 
-<h2><li><a href="https://www.braucald.com/" target="_blank">Click Here for the website</a></li></h2>
+<h2><li><a href="https://www.braucald.com/" target="_blank">Click Here for the Portfolio</a></li></h2>
 
 ## Objectives 
 <li>Manipulation of react hooks</li>
